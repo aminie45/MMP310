@@ -1,8 +1,10 @@
 body{
-    
+    background-color: lightgreen;
+    color: saddlebrown;
+    font-family: fantasy;
 }
 
 h1 {
-    color: darkgreen;
+    color: rebeccapurple;
     
 }
